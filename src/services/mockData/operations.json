@@ -1,0 +1,223 @@
+[
+  {
+    "Id": 1,
+    "title": "Terrassement parcelle A-12",
+    "description": "Excavation et préparation du terrain pour fondations du bâtiment principal",
+    "status": "En cours",
+    "priority": "Haute",
+    "date": "2024-11-21",
+    "location": "Chantier Alpha - Zone A",
+    "team": "Équipe A",
+    "startTime": "07:00",
+    "endTime": "17:00",
+    "equipment": ["Pelleteuse Caterpillar 320D", "Camions bennes 19 tonnes", "Compacteur à plaques vibrantes"],
+    "progress": 65,
+    "reports": [
+      {
+        "id": 1,
+        "title": "Rapport journalier - Terrassement",
+        "date": "2024-11-21",
+        "author": "Marc Dubois"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "title": "Coulage béton niveau -1",
+    "description": "Coulage des fondations et voiles du sous-sol",
+    "status": "Planifiée",
+    "priority": "Haute",
+    "date": "2024-11-22",
+    "location": "Chantier Alpha - Sous-sol",
+    "team": "Équipe B",
+    "startTime": "06:00",
+    "endTime": "14:00",
+    "equipment": ["Bétonnière portée 8m³", "Pompe à béton stationnaire", "Groupe électrogène 150 kVA"],
+    "progress": 0,
+    "reports": []
+  },
+  {
+    "Id": 3,
+    "title": "Installation échafaudages façade Est",
+    "description": "Montage échafaudage modulaire pour travaux de façade",
+    "status": "Terminée",
+    "priority": "Moyenne",
+    "date": "2024-11-20",
+    "location": "Chantier Beta - Façade Est",
+    "team": "Équipe C",
+    "startTime": "08:00",
+    "endTime": "16:00",
+    "equipment": ["Échafaudage modulaire 100m²", "Nacelle élévatrice 18m"],
+    "progress": 100,
+    "reports": [
+      {
+        "id": 2,
+        "title": "Procès-verbal montage échafaudage",
+        "date": "2024-11-20",
+        "author": "Sophie Martin"
+      },
+      {
+        "id": 3,
+        "title": "Contrôle sécurité échafaudage",
+        "date": "2024-11-20",
+        "author": "Jean Leclerc"
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "title": "Maintenance préventive grue mobile",
+    "description": "Révision trimestrielle et contrôle technique réglementaire",
+    "status": "En cours",
+    "priority": "Moyenne",
+    "date": "2024-11-21",
+    "location": "Dépôt central - Atelier",
+    "team": "Service maintenance",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "equipment": ["Grue mobile Liebherr LTM 1055"],
+    "progress": 40,
+    "reports": []
+  },
+  {
+    "Id": 5,
+    "title": "Livraison matériaux chantier Gamma",
+    "description": "Transport et déchargement poutrelles métalliques",
+    "status": "Planifiée",
+    "priority": "Basse",
+    "date": "2024-11-23",
+    "location": "Chantier Gamma - Zone stockage",
+    "team": "Équipe logistique",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "equipment": ["Camions bennes 19 tonnes", "Grue mobile Liebherr LTM 1055"],
+    "progress": 0,
+    "reports": []
+  },
+  {
+    "Id": 6,
+    "title": "Réparation pompe béton",
+    "description": "Intervention technique suite à panne hydraulique",
+    "status": "Annulée",
+    "priority": "Haute",
+    "date": "2024-11-21",
+    "location": "Chantier Gamma",
+    "team": "Service technique",
+    "startTime": "14:00",
+    "endTime": "18:00",
+    "equipment": ["Pompe à béton stationnaire"],
+    "progress": 0,
+    "reports": [
+      {
+        "id": 4,
+        "title": "Rapport d'incident - Panne pompe",
+        "date": "2024-11-21",
+        "author": "Pierre Durand"
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "title": "Formation sécurité équipe nouvelle",
+    "description": "Session de formation obligatoire sécurité chantier",
+    "status": "Planifiée",
+    "priority": "Haute",
+    "date": "2024-11-22",
+    "location": "Salle formation - Siège",
+    "team": "Nouvelles recrues",
+    "startTime": "08:30",
+    "endTime": "12:00",
+    "equipment": ["Équipements de sécurité"],
+    "progress": 0,
+    "reports": []
+  },
+  {
+    "Id": 8,
+    "title": "Contrôle qualité maçonnerie",
+    "description": "Vérification conformité travaux de maçonnerie niveau R+1",
+    "status": "En cours",
+    "priority": "Moyenne",
+    "date": "2024-11-21",
+    "location": "Chantier Alpha - R+1",
+    "team": "Bureau contrôle",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "equipment": ["Station météorologique portable"],
+    "progress": 75,
+    "reports": [
+      {
+        "id": 5,
+        "title": "Contrôle qualité - Phase 1",
+        "date": "2024-11-21",
+        "author": "Marie Rousseau"
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "title": "Nettoyage fin de journée",
+    "description": "Nettoyage et rangement des zones de travail",
+    "status": "Planifiée",
+    "priority": "Basse",
+    "date": "2024-11-21",
+    "location": "Tous chantiers",
+    "team": "Équipe nettoyage",
+    "startTime": "17:30",
+    "endTime": "19:00",
+    "equipment": ["Perceuses à percussion", "Compacteur à plaques vibrantes"],
+    "progress": 0,
+    "reports": []
+  },
+  {
+    "Id": 10,
+    "title": "Relevé topographique zone B",
+    "description": "Mesures topographiques préparatoires aux travaux VRD",
+    "status": "Terminée",
+    "priority": "Moyenne",
+    "date": "2024-11-19",
+    "location": "Chantier Beta - Zone B",
+    "team": "Géomètres",
+    "startTime": "07:30",
+    "endTime": "11:30",
+    "equipment": ["Station météorologique portable"],
+    "progress": 100,
+    "reports": [
+      {
+        "id": 6,
+        "title": "Plan topographique zone B",
+        "date": "2024-11-19",
+        "author": "Antoine Leroy"
+      }
+    ]
+  },
+  {
+    "Id": 11,
+    "title": "Inspection sécurité mensuelle",
+    "description": "Contrôle réglementaire sécurité sur tous les chantiers",
+    "status": "Planifiée",
+    "priority": "Haute",
+    "date": "2024-11-25",
+    "location": "Tous sites",
+    "team": "Service sécurité",
+    "startTime": "08:00",
+    "endTime": "17:00",
+    "equipment": ["Équipements de sécurité", "Nacelle élévatrice 18m"],
+    "progress": 0,
+    "reports": []
+  },
+  {
+    "Id": 12,
+    "title": "Réception matériaux isolants",
+    "description": "Contrôle et stockage des matériaux d'isolation thermique",
+    "status": "En cours",
+    "priority": "Basse",
+    "date": "2024-11-21",
+    "location": "Magasin matériaux",
+    "team": "Équipe réception",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "equipment": [],
+    "progress": 30,
+    "reports": []
+  }
+]
