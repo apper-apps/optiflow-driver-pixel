@@ -1,0 +1,137 @@
+[
+  {
+    "Id": 1,
+    "date": "2024-11-20",
+    "type": "Entrée",
+    "amount": 25000,
+    "category": "Vente",
+    "description": "Paiement client Projet Alpha - Avance travaux",
+    "receipt": "REC-2024-001"
+  },
+  {
+    "Id": 2,
+    "date": "2024-11-20",
+    "type": "Sortie",
+    "amount": 3500,
+    "category": "Achat",
+    "description": "Achat matériaux construction - Ciment et armatures",
+    "receipt": "FAC-2024-078"
+  },
+  {
+    "Id": 3,
+    "date": "2024-11-19",
+    "type": "Entrée",
+    "amount": 18000,
+    "category": "Vente",
+    "description": "Facturation service consultation technique",
+    "receipt": "REC-2024-002"
+  },
+  {
+    "Id": 4,
+    "date": "2024-11-19",
+    "type": "Sortie",
+    "amount": 8500,
+    "category": "Salaire",
+    "description": "Salaire équipe technique - Quinzaine novembre",
+    "receipt": "PAY-2024-045"
+  },
+  {
+    "Id": 5,
+    "date": "2024-11-18",
+    "type": "Sortie",
+    "amount": 1200,
+    "category": "Transport",
+    "description": "Carburant véhicules chantier",
+    "receipt": "FAC-2024-079"
+  },
+  {
+    "Id": 6,
+    "date": "2024-11-18",
+    "type": "Entrée",
+    "amount": 45000,
+    "category": "Vente",
+    "description": "Règlement final Projet Beta - Rénovation",
+    "receipt": "REC-2024-003"
+  },
+  {
+    "Id": 7,
+    "date": "2024-11-17",
+    "type": "Sortie",
+    "amount": 2800,
+    "category": "Maintenance",
+    "description": "Réparation grue chantier - Pièces et main d'œuvre",
+    "receipt": "FAC-2024-080"
+  },
+  {
+    "Id": 8,
+    "date": "2024-11-17",
+    "type": "Sortie",
+    "amount": 950,
+    "category": "Frais généraux",
+    "description": "Factures électricité et eau - Bureaux",
+    "receipt": "FAC-2024-081"
+  },
+  {
+    "Id": 9,
+    "date": "2024-11-16",
+    "type": "Entrée",
+    "amount": 12000,
+    "category": "Vente",
+    "description": "Avance projet École Epsilon - 30%",
+    "receipt": "REC-2024-004"
+  },
+  {
+    "Id": 10,
+    "date": "2024-11-16",
+    "type": "Sortie",
+    "amount": 6500,
+    "category": "Achat",
+    "description": "Équipements de sécurité - Casques et harnais",
+    "receipt": "FAC-2024-082"
+  },
+  {
+    "Id": 11,
+    "date": "2024-11-15",
+    "type": "Sortie",
+    "amount": 750,
+    "category": "Assurance",
+    "description": "Prime assurance responsabilité civile mensuelle",
+    "receipt": "ASS-2024-011"
+  },
+  {
+    "Id": 12,
+    "date": "2024-11-14",
+    "type": "Entrée",
+    "amount": 32000,
+    "category": "Vente",
+    "description": "Paiement travaux Infrastructure Gamma - Étape 2",
+    "receipt": "REC-2024-005"
+  },
+  {
+    "Id": 13,
+    "date": "2024-11-14",
+    "type": "Sortie",
+    "amount": 15000,
+    "category": "Salaire",
+    "description": "Salaires ingénieurs et techniciens - Novembre",
+    "receipt": "PAY-2024-046"
+  },
+  {
+    "Id": 14,
+    "date": "2024-11-13",
+    "type": "Sortie",
+    "amount": 4200,
+    "category": "Autre",
+    "description": "Formation sécurité équipes - Certification",
+    "receipt": "FOR-2024-003"
+  },
+  {
+    "Id": 15,
+    "date": "2024-11-13",
+    "type": "Entrée",
+    "amount": 8500,
+    "category": "Autre",
+    "description": "Remboursement assurance - Sinistre équipement",
+    "receipt": "REM-2024-002"
+  }
+]

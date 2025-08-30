@@ -1,0 +1,110 @@
+[
+  {
+    "Id": 1,
+    "title": "Statuts de l'entreprise OptiFlow EMS",
+    "type": "Statut",
+    "date": "2023-01-15",
+    "department": "Direction",
+    "fileUrl": "statuts_optiflow_2023.pdf",
+    "keywords": ["statuts", "juridique", "constitution", "société"]
+  },
+  {
+    "Id": 2,
+    "title": "Contrat de partenariat Région Capitale",
+    "type": "Contrat",
+    "date": "2024-03-10",
+    "department": "Administration",
+    "fileUrl": "contrat_region_2024.pdf",
+    "keywords": ["partenariat", "région", "infrastructure", "public"]
+  },
+  {
+    "Id": 3,
+    "title": "Convention collective BTP",
+    "type": "Convention",
+    "date": "2024-01-01",
+    "department": "Ressources Humaines",
+    "fileUrl": "convention_btp_2024.pdf",
+    "keywords": ["convention", "BTP", "salaires", "conditions"]
+  },
+  {
+    "Id": 4,
+    "title": "Certificat qualité ISO 9001:2015",
+    "type": "Certificat",
+    "date": "2024-06-15",
+    "department": "Administration",
+    "fileUrl": "certificat_iso9001.pdf",
+    "keywords": ["ISO", "qualité", "certification", "norme"]
+  },
+  {
+    "Id": 5,
+    "title": "Procédure sécurité chantier",
+    "type": "Procédure",
+    "date": "2024-08-20",
+    "department": "Sécurité",
+    "fileUrl": "procedure_securite.pdf",
+    "keywords": ["sécurité", "chantier", "prévention", "procédure"]
+  },
+  {
+    "Id": 6,
+    "title": "Contrat assurance responsabilité civile",
+    "type": "Contrat",
+    "date": "2024-01-01",
+    "department": "Finance",
+    "fileUrl": "contrat_assurance_rc.pdf",
+    "keywords": ["assurance", "responsabilité", "civile", "couverture"]
+  },
+  {
+    "Id": 7,
+    "title": "Agrément préfectoral travaux publics",
+    "type": "Certificat",
+    "date": "2023-11-30",
+    "department": "Administration",
+    "fileUrl": "agrement_prefectoral.pdf",
+    "keywords": ["agrément", "préfecture", "travaux", "publics"]
+  },
+  {
+    "Id": 8,
+    "title": "Règlement intérieur entreprise",
+    "type": "Procédure",
+    "date": "2024-02-01",
+    "department": "Ressources Humaines",
+    "fileUrl": "reglement_interieur.pdf",
+    "keywords": ["règlement", "intérieur", "discipline", "organisation"]
+  },
+  {
+    "Id": 9,
+    "title": "Convention formation professionnelle",
+    "type": "Convention",
+    "date": "2024-09-01",
+    "department": "Ressources Humaines",
+    "fileUrl": "convention_formation.pdf",
+    "keywords": ["formation", "professionnelle", "développement", "compétences"]
+  },
+  {
+    "Id": 10,
+    "title": "Contrat maintenance équipements",
+    "type": "Contrat",
+    "date": "2024-04-15",
+    "department": "Logistique",
+    "fileUrl": "contrat_maintenance.pdf",
+    "keywords": ["maintenance", "équipements", "service", "technique"]
+  },
+  {
+    "Id": 11,
+    "title": "Certificat formation HSE directeur",
+    "type": "Certificat",
+    "date": "2024-07-10",
+    "department": "Sécurité",
+    "fileUrl": "certificat_hse_directeur.pdf",
+    "keywords": ["HSE", "hygiène", "sécurité", "environnement"]
+  },
+  {
+    "Id": 12,
+    "title": "Manuel qualité entreprise",
+    "type": "Procédure",
+    "date": "2024-05-01",
+    "department": "Administration",
+    "fileUrl": "manuel_qualite.pdf",
+    "keywords": ["manuel", "qualité", "processus", "amélioration"]
+  }
+]

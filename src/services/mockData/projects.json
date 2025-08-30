@@ -1,0 +1,129 @@
+[
+  {
+    "Id": 1,
+    "name": "Construction Complexe Résidentiel Alpha",
+    "description": "Développement d'un complexe résidentiel de 120 unités avec espaces verts et parking souterrain. Projet incluant l'aménagement paysager et les infrastructures communes.",
+    "startDate": "2024-01-15",
+    "endDate": "2024-12-30",
+    "responsible": "Marie Dubois",
+    "budget": 2500000,
+    "expenses": 1800000,
+    "advances": 500000,
+    "progress": 72,
+    "status": "En cours",
+    "attachments": [
+      {"name": "Plan_architectural.pdf", "size": "2.3 MB"},
+      {"name": "Devis_materiaux.xlsx", "size": "1.1 MB"}
+    ]
+  },
+  {
+    "Id": 2,
+    "name": "Rénovation Centre Commercial Beta",
+    "description": "Modernisation complète du centre commercial incluant nouvelle façade, système d'éclairage LED et réaménagement des espaces communs.",
+    "startDate": "2024-03-01",
+    "endDate": "2024-08-15",
+    "responsible": "Jean-Pierre Martin",
+    "budget": 1200000,
+    "expenses": 950000,
+    "advances": 200000,
+    "progress": 89,
+    "status": "En cours",
+    "attachments": [
+      {"name": "Cahier_charges.pdf", "size": "1.8 MB"}
+    ]
+  },
+  {
+    "Id": 3,
+    "name": "Infrastructure Routière Gamma",
+    "description": "Construction de 5 km de route avec ponts, signalisation et éclairage public. Projet incluant les études d'impact environnemental.",
+    "startDate": "2024-02-20",
+    "endDate": "2024-10-31",
+    "responsible": "Sophie Leroux",
+    "budget": 3200000,
+    "expenses": 2100000,
+    "advances": 800000,
+    "progress": 65,
+    "status": "En cours",
+    "attachments": []
+  },
+  {
+    "Id": 4,
+    "name": "Usine Traitement Delta",
+    "description": "Construction d'une station de traitement des eaux usées avec capacité de 50 000 m³/jour, équipements de pointe et système de surveillance automatisé.",
+    "startDate": "2023-11-10",
+    "endDate": "2024-06-30",
+    "responsible": "Ahmed Ben Ali",
+    "budget": 4500000,
+    "expenses": 4200000,
+    "advances": 1000000,
+    "progress": 95,
+    "status": "En retard",
+    "attachments": [
+      {"name": "Specifications_techniques.pdf", "size": "3.2 MB"},
+      {"name": "Photos_chantier.zip", "size": "15.7 MB"}
+    ]
+  },
+  {
+    "Id": 5,
+    "name": "École Primaire Epsilon",
+    "description": "Construction d'une nouvelle école primaire de 12 classes avec cantine, bibliothèque, salle de sport et espaces extérieurs sécurisés.",
+    "startDate": "2024-01-08",
+    "endDate": "2024-09-15",
+    "responsible": "Catherine Moreau",
+    "budget": 1800000,
+    "expenses": 720000,
+    "advances": 300000,
+    "progress": 40,
+    "status": "En cours",
+    "attachments": [
+      {"name": "Plans_etablissement.pdf", "size": "2.1 MB"}
+    ]
+  },
+  {
+    "Id": 6,
+    "name": "Parc Industriel Zeta",
+    "description": "Aménagement d'une zone industrielle de 50 hectares avec voiries, réseaux, bureaux administratifs et zones de stockage.",
+    "startDate": "2023-09-01",
+    "endDate": "2024-04-30",
+    "responsible": "Michel Rousseau",
+    "budget": 6200000,
+    "expenses": 5800000,
+    "advances": 1500000,
+    "progress": 100,
+    "status": "Terminé",
+    "attachments": [
+      {"name": "Rapport_final.pdf", "size": "4.5 MB"},
+      {"name": "Certificat_conformite.pdf", "size": "0.8 MB"}
+    ]
+  },
+  {
+    "Id": 7,
+    "name": "Hôpital Régional Eta",
+    "description": "Extension de l'hôpital régional avec nouveau bloc opératoire, service d'urgences agrandi et parking à étages pour 300 places.",
+    "startDate": "2024-04-01",
+    "endDate": "2025-03-31",
+    "responsible": "Dr. Fatima Benali",
+    "budget": 8500000,
+    "expenses": 1700000,
+    "advances": 2000000,
+    "progress": 20,
+    "status": "En cours",
+    "attachments": [
+      {"name": "Etude_faisabilite.pdf", "size": "2.9 MB"}
+    ]
+  },
+  {
+    "Id": 8,
+    "name": "Pont Autoroutier Theta",
+    "description": "Construction d'un pont autoroutier de 800 mètres avec 4 voies de circulation, passerelles piétonnes et système d'éclairage intelligent.",
+    "startDate": "2024-05-15",
+    "endDate": "2025-05-15",
+    "responsible": "Pierre Durand",
+    "budget": 12000000,
+    "expenses": 2400000,
+    "advances": 3000000,
+    "progress": 18,
+    "status": "En cours",
+    "attachments": []
+  }
+]
